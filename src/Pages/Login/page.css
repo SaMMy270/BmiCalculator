@@ -1,0 +1,72 @@
+.login {
+    width: 100%;
+    max-width: 450px;
+    margin: auto;
+    padding: 20px;
+}
+
+.login h2 {
+    text-align: center;
+    font-family: sans-serif;
+    color: rgb(25, 23, 167);
+    margin-right: 20px;
+
+}
+
+::placeholder {
+    font-size: 16px;
+}
+
+
+.mb-3 {
+    width: 100%;
+    box-shadow: rgba(99, 99, 99, 2.2) 0px 2px 8px 0px;
+    padding: 40px;
+
+}
+
+.mb-3 label {
+    font-weight: 500;
+    padding-right: 20px;
+    margin-top: 20px;
+    font-family: sans-serif;
+}
+
+.mb-3 input {
+    margin: 6px 0px;
+    width: 100%;
+    padding: 8px;
+
+}
+
+.container {
+    width: 100%;
+    max-width: 500px;
+    margin: auto;
+    padding: 20px;
+}
+
+.container h2 {
+    text-align: center;
+    font-family: sans-serif;
+    color: rgb(38, 35, 218);
+}
+
+::placeholder {
+    font-size: 14px;
+}
+
+a {
+    color: rgb(0, 17, 255);
+}
+
+.btn {
+    background-color: rgb(6, 4, 86);
+    border: none;
+    padding: 9px 15px;
+    color: white;
+    font-weight: 500;
+    border-radius: 4px;
+    margin-bottom: 20px;
+    font-size: 16px;
+}
